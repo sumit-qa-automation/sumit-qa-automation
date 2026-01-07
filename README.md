@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋 I'm Sumit
 
-<!--
-**sumit-qa-automation/sumit-qa-automation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer with hands-on experience in:
 
-Here are some ideas to get you started:
+- 🌐 Web Automation – Selenium, TestNG
+- 🔗 API Automation – REST Assured
+- 📱 Mobile Automation – Appium
+- ☕ Java, Maven, GitHub, Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- Automation Framework Design (Hybrid / Unified)
+- CI-ready test execution
+- Test strategy & reporting
+
+### 📂 Featured Projects (Coming Soon)
+- Unified Automation Framework (Web + API + Mobile)
+- Selenium TestNG Hybrid Framework
+- REST Assured API Automation Framework
+
+📍 Location: Pune, India  
+💼 Open to QA Automation / SDET opportunities
