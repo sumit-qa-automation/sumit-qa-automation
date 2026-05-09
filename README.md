@@ -9,6 +9,7 @@ QA Automation Engineer with hands-on experience in building scalable and enterpr
 - 📱 Mobile Automation – Appium, Sauce Labs
 - ☕ Java, Maven, GitHub Actions, Jenkins
 - ⚙️ CI/CD Integration & Cloud Execution
+- 🤖 AI-Assisted Automation Engineering – Claude Code, AI Skill Files, AI Workflow Integration
 
 ### 🔧 Skills
 
@@ -21,13 +22,25 @@ QA Automation Engineer with hands-on experience in building scalable and enterpr
 - GitHub Actions CI/CD Pipelines
 - Cloud-Based Mobile Automation
 - Cross-Platform Automation Architecture
+- AI-Assisted Development Workflows
+- AI Agent Instruction Engineering
+- Repository-Level AI Skill Integration
 
 ### 📂 Featured Projects
 
-- Unified Automation Framework (Web + API + Mobile)
+- Unified Automation Framework (Web + API + Mobile + AI-Assisted Engineering)
 - Selenium TestNG Hybrid Framework
 - REST Assured API Automation Framework
 - Appium Mobile Automation Framework
+
+### 🤖 AI Engineering Highlights
+
+- Claude Code Repository Integration
+- AI Agent Instruction Files (AGENTS.md / CLAUDE.md)
+- AI Skill-Based Engineering Workflow
+- AI-Assisted Framework Development
+- Modular AI Repository Standards
+- Context-Aware AI Development Support
 
 ### 🛠️ Framework Highlights
 
